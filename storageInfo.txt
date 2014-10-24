@@ -1,0 +1,11 @@
+  Available:	99.64 GB (99,639,984,128 bytes)
+  Capacity:	99.86 GB (99,860,910,080 bytes)
+  Mount Point:	/Volumes/Data
+  File System:	Journaled HFS+
+  Writable:	Yes
+  Ignore Ownership:	No
+  BSD Name:	disk0s3
+  Volume UUID:	5EE96560-F8BD-3212-A39B-2B03DBCCC653
+  Physical Drive:
+  Media Name:	ST31000528AS Media
+  Medium Type:	Rotational
